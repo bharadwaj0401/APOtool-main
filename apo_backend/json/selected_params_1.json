@@ -1,0 +1,17 @@
+{
+    "Business Criticality": [],
+    "Application Maturity": [],
+    "Application Stability": [],
+    "Application Complexity": [],
+    "Interoperability": [
+        "Compliance with Open Standards",
+        "Use of Standard Data Formats",
+        "Compliance with Data-Protection Standards",
+        "API/Service Exposure"
+    ],
+    "Technology Maturity": [],
+    "Digital and Microservices Readiness": [],
+    "Security": [],
+    "Knowledge": [],
+    "Technical Risk": []
+}
